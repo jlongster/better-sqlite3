@@ -1,6 +1,6 @@
 {
   "name": "better-sqlite3",
-  "version": "4.0.4-beta",
+  "version": "4.0.4-beta2",
   "description": "The fastest and simplest library for SQLite3 in Node.js.",
   "homepage": "http://github.com/JoshuaWise/better-sqlite3",
   "author": "Joshua Wise <joshuathomaswise@gmail.com>",
@@ -12,7 +12,7 @@
   "dependencies": {
     "bindings": "^1.2.1",
     "integer": "jlongster/integer",
-    "lzz-gyp": "jlongster/lzz-gyp",
+    "lzz-gyp": "jlongster/lzz-gyp#fix-windows",
     "to-descriptor": "^1.0.1"
   },
   "devDependencies": {
