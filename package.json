@@ -12,7 +12,7 @@
   "dependencies": {
     "bindings": "^1.2.1",
     "integer": "jlongster/integer",
-    "lzz-gyp": "^0.4.2",
+    "lzz-gyp": "jlongster/lzz-gyp",
     "to-descriptor": "^1.0.1"
   },
   "devDependencies": {
